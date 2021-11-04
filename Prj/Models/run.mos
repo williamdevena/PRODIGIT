@@ -1,0 +1,39 @@
+loadModel(Modelica);
+getErrorString();
+
+loadFile("connectors.mo");
+getErrorString();
+
+loadFile("student.mo");
+getErrorString();
+
+loadFile("gomp_mc.mo");
+getErrorString();
+
+loadFile("controller1.mo");
+getErrorString();
+
+loadFile("controller2.mo");
+getErrorString();
+
+loadFile("aula.mo");
+getErrorString();
+
+loadFile("monitor.mo");
+getErrorString();
+
+loadFile("monitor2.mo");
+getErrorString();
+
+loadFile("system.mo");
+getErrorString();
+
+simulate(System, stopTime=100000, method="rungekutta");
+getErrorString();
+
+//plot({gomp.agibilita, ctr1.u1, ctr2.u2}, externalWindow=true);
+//plot({ctr1.u1, aula.num_pre}, externalWindow=true);
+//plot({aula.num_pre, monitor1.y, monitor2.y, gomp.state, aula.state}, externalWindow=true);
+plot({aula.num_pre, monitor1.y, monitor1.errore, aula.state}, externalWindow=true);
+
+getErrorString();

@@ -1,0 +1,362 @@
+building model...
+model built
+p =  50
+number test =  100
+min =  1
+max =  20
+
+
+
+Iteration:  0
+Test per T =  1.0
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  1
+Test per T =  1.38
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  2
+Test per T =  1.76
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  3
+Test per T =  2.14
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  4
+Test per T =  2.52
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  5
+Test per T =  2.9
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  6
+Test per T =  3.2800000000000002
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  7
+Test per T =  3.66
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  8
+Test per T =  4.04
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  9
+Test per T =  4.42
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  10
+Test per T =  4.8
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  11
+Test per T =  5.18
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  12
+Test per T =  5.5600000000000005
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  13
+Test per T =  5.94
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  14
+Test per T =  6.32
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  15
+Test per T =  6.7
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  16
+Test per T =  7.08
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  17
+Test per T =  7.46
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  18
+Test per T =  7.84
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  19
+Test per T =  8.219999999999999
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  20
+Test per T =  8.6
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  21
+Test per T =  8.98
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  22
+Test per T =  9.36
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  23
+Test per T =  9.74
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  24
+Test per T =  10.120000000000001
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  25
+Test per T =  10.5
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  26
+Test per T =  10.88
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  27
+Test per T =  11.26
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  28
+Test per T =  11.64
+num pass:  93
+num_fail:  7
+
+
+
+Iteration:  29
+Test per T =  12.02
+num pass:  94
+num_fail:  6
+
+
+
+Iteration:  30
+Test per T =  12.4
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  31
+Test per T =  12.78
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  32
+Test per T =  13.16
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  33
+Test per T =  13.540000000000001
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  34
+Test per T =  13.92
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  35
+Test per T =  14.3
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  36
+Test per T =  14.68
+num pass:  94
+num_fail:  6
+
+
+
+Iteration:  37
+Test per T =  15.06
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  38
+Test per T =  15.44
+num pass:  92
+num_fail:  8
+
+
+
+Iteration:  39
+Test per T =  15.82
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  40
+Test per T =  16.2
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  41
+Test per T =  16.58
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  42
+Test per T =  16.96
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  43
+Test per T =  17.34
+num pass:  93
+num_fail:  7
+
+
+
+Iteration:  44
+Test per T =  17.72
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  45
+Test per T =  18.1
+num pass:  93
+num_fail:  7
+
+
+
+Iteration:  46
+Test per T =  18.48
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  47
+Test per T =  18.86
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  48
+Test per T =  19.240000000000002
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  49
+Test per T =  19.62
+num pass:  94
+num_fail:  6
+
+Tempo di esecuzione:  6511.711650133133
+num feasible =  8  total tests =  50
+Best solution: 
+T =  6.7
+Array dei T di successo:  [1.0, 1.38, 1.76, 2.14, 2.52, 3.66, 4.8, 6.7]

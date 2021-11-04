@@ -1,0 +1,156 @@
+building model...
+model built
+
+student.globalSeed:  170823
+student.localSeed:  19748
+gomp.globalSeed:  130260
+gomp.localSeed:  140703
+aula.globalSeed:  122048
+aula.localSeed:  159923
+gomp.max:  16
+Monitor1 value at iteration 49 :  1.0 		errori totali:  0 
+
+Monitor2 value at iteration 49 :  0.0 		errori totali:  0 
+
+student.globalSeed:  34455
+student.localSeed:  14914
+gomp.globalSeed:  74061
+gomp.localSeed:  24683
+aula.globalSeed:  126903
+aula.localSeed:  82783
+gomp.max:  198
+Monitor1 value at iteration 173 :  1.0 		errori totali:  1.0 
+
+Monitor2 value at iteration 173 :  0.0 		errori totali:  1.0 
+
+student.globalSeed:  107353
+student.localSeed:  78122
+gomp.globalSeed:  139254
+gomp.localSeed:  135696
+aula.globalSeed:  137460
+aula.localSeed:  112298
+gomp.max:  78
+Monitor1 value at iteration 191 :  1.0 		errori totali:  2.0 
+
+Monitor2 value at iteration 191 :  0.0 		errori totali:  2.0 
+
+student.globalSeed:  2317
+student.localSeed:  75952
+gomp.globalSeed:  47104
+gomp.localSeed:  59187
+aula.globalSeed:  147599
+aula.localSeed:  144816
+gomp.max:  97
+Monitor1 value at iteration 258 :  1.0 		errori totali:  3.0 
+
+Monitor2 value at iteration 258 :  0.0 		errori totali:  3.0 
+
+student.globalSeed:  136951
+student.localSeed:  86421
+gomp.globalSeed:  138086
+gomp.localSeed:  43205
+aula.globalSeed:  56788
+aula.localSeed:  155564
+gomp.max:  186
+Monitor1 value at iteration 417 :  1.0 		errori totali:  4.0 
+
+Monitor2 value at iteration 417 :  0.0 		errori totali:  4.0 
+
+student.globalSeed:  87588
+student.localSeed:  158760
+gomp.globalSeed:  103502
+gomp.localSeed:  82719
+aula.globalSeed:  23488
+aula.localSeed:  176782
+gomp.max:  62
+Monitor1 value at iteration 444 :  1.0 		errori totali:  5.0 
+
+Monitor2 value at iteration 444 :  0.0 		errori totali:  5.0 
+
+student.globalSeed:  142566
+student.localSeed:  18742
+gomp.globalSeed:  127561
+gomp.localSeed:  22871
+aula.globalSeed:  20369
+aula.localSeed:  133333
+gomp.max:  41
+Monitor1 value at iteration 772 :  1.0 		errori totali:  6.0 
+
+Monitor2 value at iteration 772 :  0.0 		errori totali:  6.0 
+
+student.globalSeed:  6369
+student.localSeed:  1738
+gomp.globalSeed:  71707
+gomp.localSeed:  6126
+aula.globalSeed:  103569
+aula.localSeed:  710
+gomp.max:  101
+Monitor1 value at iteration 825 :  1.0 		errori totali:  7.0 
+
+Monitor2 value at iteration 825 :  0.0 		errori totali:  7.0 
+
+student.globalSeed:  61919
+student.localSeed:  76467
+gomp.globalSeed:  152185
+gomp.localSeed:  66006
+aula.globalSeed:  12759
+aula.localSeed:  9220
+gomp.max:  35
+Monitor1 value at iteration 896 :  1.0 		errori totali:  8.0 
+
+Monitor2 value at iteration 896 :  0.0 		errori totali:  8.0 
+
+student.globalSeed:  88543
+student.localSeed:  28204
+gomp.globalSeed:  81993
+gomp.localSeed:  158459
+aula.globalSeed:  42207
+aula.localSeed:  35476
+gomp.max:  132
+Monitor1 value at iteration 913 :  1.0 		errori totali:  9.0 
+
+Monitor2 value at iteration 913 :  0.0 		errori totali:  9.0 
+
+student.globalSeed:  189407
+student.localSeed:  81852
+gomp.globalSeed:  139374
+gomp.localSeed:  80794
+aula.globalSeed:  69963
+aula.localSeed:  26593
+gomp.max:  13
+Monitor1 value at iteration 914 :  1.0 		errori totali:  10.0 
+
+Monitor2 value at iteration 914 :  0.0 		errori totali:  10.0 
+
+student.globalSeed:  173778
+student.localSeed:  56682
+gomp.globalSeed:  39527
+gomp.localSeed:  61926
+aula.globalSeed:  105846
+aula.localSeed:  96537
+gomp.max:  129
+Monitor1 value at iteration 992 :  1.0 		errori totali:  11.0 
+
+Monitor2 value at iteration 992 :  0.0 		errori totali:  11.0 
+
+
+Tempo di esecuzione:  1220.4977583885193
+num pass =  988.0
+num fail =  12.0
+total tests =  1000.0
+pass prob =  0.988
+fail prob =  0.012
+
+Seeds che hanno creato problemi: 
+[170823, 19748, 130260, 140703]
+[34455, 14914, 74061, 24683]
+[107353, 78122, 139254, 135696]
+[2317, 75952, 47104, 59187]
+[136951, 86421, 138086, 43205]
+[87588, 158760, 103502, 82719]
+[142566, 18742, 127561, 22871]
+[6369, 1738, 71707, 6126]
+[61919, 76467, 152185, 66006]
+[88543, 28204, 81993, 158459]
+[189407, 81852, 139374, 80794]
+[173778, 56682, 39527, 61926]

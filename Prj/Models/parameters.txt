@@ -1,0 +1,8 @@
+ctr2.T=0.6
+student.globalSeed=164745
+student.localSeed=71923
+gomp.globalSeed=89022
+gomp.localSeed=58393
+aula.globalSeed=154247
+aula.localSeed=190265
+gomp.max=126

@@ -1,0 +1,223 @@
+building model...
+model built
+p =  30
+number test =  100
+min =  1
+max =  10
+
+
+
+Iteration:  0
+Test per T =  1.0
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  1
+Test per T =  1.3
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  2
+Test per T =  1.6
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  3
+Test per T =  1.9
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  4
+Test per T =  2.2
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  5
+Test per T =  2.5
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  6
+Test per T =  2.8
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  7
+Test per T =  3.1
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  8
+Test per T =  3.4
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  9
+Test per T =  3.6999999999999997
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  10
+Test per T =  4.0
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  11
+Test per T =  4.3
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  12
+Test per T =  4.6
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  13
+Test per T =  4.9
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  14
+Test per T =  5.2
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  15
+Test per T =  5.5
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  16
+Test per T =  5.8
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  17
+Test per T =  6.1
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  18
+Test per T =  6.3999999999999995
+num pass:  100
+num_fail:  0
+
+
+
+Iteration:  19
+Test per T =  6.7
+num pass:  99
+num_fail:  1
+
+
+
+Iteration:  20
+Test per T =  7.0
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  21
+Test per T =  7.3
+num pass:  94
+num_fail:  6
+
+
+
+Iteration:  22
+Test per T =  7.6
+num pass:  95
+num_fail:  5
+
+
+
+Iteration:  23
+Test per T =  7.8999999999999995
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  24
+Test per T =  8.2
+num pass:  93
+num_fail:  7
+
+
+
+Iteration:  25
+Test per T =  8.5
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  26
+Test per T =  8.8
+num pass:  98
+num_fail:  2
+
+
+
+Iteration:  27
+Test per T =  9.1
+num pass:  97
+num_fail:  3
+
+
+
+Iteration:  28
+Test per T =  9.4
+num pass:  96
+num_fail:  4
+
+
+
+Iteration:  29
+Test per T =  9.7
+num pass:  97
+num_fail:  3
+
+Tempo di esecuzione:  4685.741855621338
+num feasible =  7  total tests =  30
+Best solution: 
+T =  6.3999999999999995
+Array dei T di successo:  [1.0, 1.3, 1.9, 2.8, 4.0, 5.5, 6.3999999999999995]
+

@@ -1,0 +1,110 @@
+building model...
+model built
+p =  30
+number test =  1000
+min =  1
+max =  10
+
+
+
+ Iteration:  1.0
+Test per T =  1.0
+num pass:  1000
+num_fail:  0
+
+
+
+ Iteration:  1.38
+Test per T =  1.38
+num pass:  995
+num_fail:  5
+
+
+
+ Iteration:  1.76
+Test per T =  1.76
+num pass:  995
+num_fail:  5
+
+
+
+ Iteration:  2.14
+Test per T =  2.14
+num pass:  989
+num_fail:  11
+
+
+
+ Iteration:  2.52
+Test per T =  2.52
+num pass:  986
+num_fail:  14
+
+
+
+ Iteration:  3.66
+Test per T =  3.66
+num pass:  988
+num_fail:  12
+
+
+
+ Iteration:  4.8
+Test per T =  4.8
+num pass:  978
+num_fail:  22
+
+
+
+ Iteration:  6.7
+Test per T =  6.7
+num pass:  977
+num_fail:  23
+
+
+
+ Iteration:  1.3
+Test per T =  1.3
+num pass:  996
+num_fail:  4
+
+
+
+ Iteration:  1.9
+Test per T =  1.9
+num pass:  997
+num_fail:  3
+
+
+
+ Iteration:  2.8
+Test per T =  2.8
+num pass:  993
+num_fail:  7
+
+
+
+ Iteration:  4.0
+Test per T =  4.0
+num pass:  991
+num_fail:  9
+
+
+
+ Iteration:  5.5
+Test per T =  5.5
+num pass:  985
+num_fail:  15
+
+
+
+ Iteration:  6.39
+Test per T =  6.39
+num pass:  978
+num_fail:  22
+
+Tempo di esecuzione:  20519.717718839645
+num feasible =  1  total tests =  14
+Best solution: 
+T =  1
+Array dei T di successo:  [1.0]
