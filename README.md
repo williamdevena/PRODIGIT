@@ -1,5 +1,5 @@
 # PRODIGIT
-Project for the course "Software Engineering": Specification, Analysis, Design e V&V of a Classroom Seat. 
+Project for the course "Software Engineering": Specification, Analysis, Design and V&V of a Classroom Seat. 
 
 The System allows students to book seats for University lectures in the Covid-19 period. Reservation System. 
 
